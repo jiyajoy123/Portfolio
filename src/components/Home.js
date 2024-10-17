@@ -43,7 +43,7 @@ function Home() {
         <div className="overlay"></div>
         <div className="home-content">
           <img src={mypic} alt="jiya" className="profile-pic" />
-          <h1 className="home-title">Full-Stack Developer</h1>
+          <h1 className="home-title">I'm Jiya, a Full-Stack Developer</h1>
           <p className="home-subtitle">
             Specializing in modern web development technologies like React, Spring Boot, and more.
           </p>
