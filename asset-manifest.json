@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5a4a8d8e.css",
+    "main.js": "/portfolio/static/js/main.0a054540.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/COMPUTER-HOME.png": "/portfolio/static/media/COMPUTER-HOME.585246482b0a2672e138.png",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.cb4fa78008645fcf42db.jpg",
+    "static/media/jiya.jpg": "/portfolio/static/media/jiya.596225c57b4eca605a47.jpg",
+    "static/media/ecom.jpg": "/portfolio/static/media/ecom.f928c911a589ab013cc2.jpg",
+    "static/media/pj0.jpg": "/portfolio/static/media/pj0.470e98fdc4e41f40d21a.jpg",
+    "static/media/review.jpg": "/portfolio/static/media/review.ad499b57745f21f3de2e.jpg",
+    "static/media/androidsecure.jpg": "/portfolio/static/media/androidsecure.3881530e22782ca6a9c9.jpg",
+    "static/media/trailsoftoronto.jpg": "/portfolio/static/media/trailsoftoronto.3aea48174f9e80374bef.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.5a4a8d8e.css.map": "/portfolio/static/css/main.5a4a8d8e.css.map",
+    "main.0a054540.js.map": "/portfolio/static/js/main.0a054540.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4a8d8e.css",
+    "static/js/main.0a054540.js"
+  ]
+}
