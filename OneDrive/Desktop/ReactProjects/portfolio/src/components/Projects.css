@@ -6,7 +6,7 @@
     display: flex; /* Use flexbox to center content vertically */
     flex-direction: column; /* Stack child elements vertically */
     justify-content: center; /* Center child elements vertically */
-    padding: 0px 0px; /* Padding around the section */
+    padding: 50px 20px; /* Adjusted padding around the section */
 }
 
 .section-title {
@@ -21,7 +21,7 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     justify-items: center;
-    padding: 5 20;
+    padding: 20px; /* Adjusted padding around the grid */
 }
 
 /* Individual project card */
@@ -55,12 +55,10 @@
     justify-content: center;
     opacity: 0; /* Hidden by default */
     transition: opacity 0.3s ease; /* Smooth transition */
-
 }
 
 .project-card:hover .project-screenshot-overlay {
     opacity: 1; /* Show overlay on hover */
-
 }
 
 .project-title {
@@ -86,10 +84,10 @@
 }
 
 .project-link:hover {
-    
     background-color: #ff385c;
     color: white;
 }
+
 /* Keyframes for fade-in animation */
 @keyframes fadeIn {
     from {

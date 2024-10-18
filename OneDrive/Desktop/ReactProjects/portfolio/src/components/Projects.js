@@ -1,27 +1,49 @@
 import React from 'react';
 import './Projects.css'; 
-import pic from '../pj0.jpg'; 
+import pic from '../assets/images/pj0.jpg'; 
+import pic1 from '../assets/images/trailsoftoronto.jpg'; 
+import pic2 from '../assets/images/portfolio.jpg'; 
+import pic3 from '../assets/images/androidsecure.jpg'; 
+import pic4 from '../assets/images/ecom.jpg'; 
+import pic5 from '../assets/images/review.jpg'; 
 
 const projectsData = [
     {
-        title: "E-Commerce Web App",
-        description: "A full-stack e-commerce application using React, Spring Boot, MySQL, and H2 database.",
-        link: "https://github.com/jiyajoy123/ecommerce-app",
+        title: "PlanAhead",
+        description: "The PlanAhead Event Planning App is designed to simplify and enhance your event planning experience. This android app helps you organize events, tasks, manage budgets, track guest lists, and customize invitations.",
+        link: "https://github.com/Swathynairfeb2/Capstone",
         screenshot: pic,
+    },
+    {
+        title: "E-Commerce Web App",
+        description: "A cutting-edge Android application that enhances security by capturing images of unauthorized access attempts. This innovative solution deters theft and provides crucial evidence during security breaches.",
+        link: "",
+        screenshot: pic3,
+    },
+    {
+        title: "Trails of Toronto",
+        description: "The Android application, developed in Java using Android Studio, is a travel guide for exploring Toronto, featuring attractions, hotels, a city map, and options for users to save favorites and make notes about their preferred locations.",
+        link: "https://github.com/jiyajoy123/TrailsOfToronto", 
+        screenshot: pic1,
     },
     {
         title: "Portfolio Website",
         description: "A personal portfolio built with React showcasing skills, projects, and contact info.",
         link: "https://github.com/jiyajoy123/portfolio",
-        screenshot: pic,
+        screenshot: pic2,
     },
     {
-        title: "User Management System",
-        description: "A Spring Boot application with login/registration features and role-based access.",
-        link: "", // No GitHub link for demonstration
-        screenshot: pic,
+        title: "E-Shop",
+        description: "A full-stack E-Shop application using React, Spring Boot, and H2 database.",
+        link: "https://github.com/jiyajoy123/E-Shop",
+        screenshot: pic4,
     },
-    // Add more projects here
+    {
+        title: "Review Blog App",
+        description: "This is the frontend of the Review Blog App built using React",
+        link: "https://github.com/jiyajoy123/Review_Blog_React",
+        screenshot: pic5,
+    },
 ];
 
 function Projects() {
